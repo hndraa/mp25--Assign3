@@ -47,29 +47,27 @@ File ini adalah file kt dan xml untuk project bernama App3 di android studio unt
 # Tampilan APP3
 
 ## Tampilan Awal
-
-![Screenshot_20250405_133701_Hendra Ahmad Yani - F1D022122 App](https://github.com/user-attachments/assets/8463d6fd-e59a-4a8b-9675-5b720cd91e69)
+![image](https://github.com/user-attachments/assets/5cf402f8-643c-4a8b-80ee-3dfe8fa01379)
 
 ## Tampilan halaman login jik pw dan email kosong
-![Screenshot_20250405_133714_Hendra Ahmad Yani - F1D022122 App](https://github.com/user-attachments/assets/2388e02f-cd78-4698-8eb2-490983e2b04c)
+
 
 ## Tampilan halaman login jika email tidak valid
-![Screenshot_20250405_133725_Hendra Ahmad Yani - F1D022122 App](https://github.com/user-attachments/assets/92dbcda2-6c34-4010-ad64-40f98a783b35)
 
 ## Tampilan halaman login jika belum registrasi
-![Screenshot_20250405_133734_Hendra Ahmad Yani - F1D022122 App](https://github.com/user-attachments/assets/0b852223-01a4-46b5-a28c-74957f387298)
+
 
 ## Tampilan halaman Registrasi dan jika kosong
-![Screenshot_20250405_133741_Hendra Ahmad Yani - F1D022122 App](https://github.com/user-attachments/assets/b2b7cb3f-f3e2-4e32-b614-cf9f2a70b786)
+
 
 ## Tampilan halaman registrasi jika format email salah
-![Screenshot_20250405_133755_Hendra Ahmad Yani - F1D022122 App](https://github.com/user-attachments/assets/7e2b68fa-ebf5-4e77-aab8-64537413ef73)
+
 
 ## Tampilan halaman registrasi jika panjang password < 8 karakter
-![Screenshot_20250405_133804_Hendra Ahmad Yani - F1D022122 App](https://github.com/user-attachments/assets/2075859d-e493-429f-8ff5-2bbcfa2f992e)
+
 
 ## Tampilan Halaman Login setelah register, Jika panjang password < 8 Karakter
-![Screenshot_20250405_133819_Hendra Ahmad Yani - F1D022122 App](https://github.com/user-attachments/assets/05ce385f-6357-475c-b241-4aaad2083af3)
+
 
 ## Tampilan Halamann Landingjika berhasil Login
-![Screenshot_20250405_133829_Hendra Ahmad Yani - F1D022122 App](https://github.com/user-attachments/assets/c0f49d09-a1f6-4943-a917-c42cc97b9387)
+

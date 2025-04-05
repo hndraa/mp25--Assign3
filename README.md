@@ -33,11 +33,13 @@ File ini adalah file kt dan xml untuk project bernama App3 di android studio unt
            </activity>
 
 
-   ![image](https://github.com/user-attachments/assets/9f4b4947-31b1-4389-a37a-dd16d5cae82a)
+![image](https://github.com/user-attachments/assets/9f4b4947-31b1-4389-a37a-dd16d5cae82a)
 
 10. selanjutnya di Gradle Script > pilih dan buka build.gradle.kts (Modul : app) dan tambahkan kodingan [ `id("kotlin-parcelize")` ]
+    
    ![image](https://github.com/user-attachments/assets/854a8a47-6875-471d-879a-1bdf5b4bf1e1)
-![image](https://github.com/user-attachments/assets/4ba0f4e4-e8d0-44d3-883c-fc5f09d37f0a)
+   
+   ![image](https://github.com/user-attachments/assets/4ba0f4e4-e8d0-44d3-883c-fc5f09d37f0a)
 
 12. Selanjutnya jalankan Aplikasi di android studio dengan memilih  Device Manager > pilih perangkat > Run
 13. Selamat mencoba!
@@ -45,6 +47,7 @@ File ini adalah file kt dan xml untuk project bernama App3 di android studio unt
 # Tampilan APP3
 
 ## Tampilan Awal
+
 ![Screenshot_20250405_133701_Hendra Ahmad Yani - F1D022122 App](https://github.com/user-attachments/assets/8463d6fd-e59a-4a8b-9675-5b720cd91e69)
 
 ## Tampilan halaman login jik pw dan email kosong

@@ -14,7 +14,7 @@ File ini adalah file kt dan xml untuk project bernama App3 di android studio unt
 
 8. Buka lagi App > manifests > AndroidManifest.xml > tambahkan codingan berikut:
    
-   `<activity
+   <activity
             android:name=".landing"
             android:exported="false" />
         <activity
@@ -27,7 +27,7 @@ File ini adalah file kt dan xml untuk project bernama App3 di android studio unt
                 <action android:name="android.intent.action.MAIN" />
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
-        </activity>`
+        </activity>
 
    ![image](https://github.com/user-attachments/assets/9f4b4947-31b1-4389-a37a-dd16d5cae82a)
 

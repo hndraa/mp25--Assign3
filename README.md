@@ -15,7 +15,7 @@ File ini adalah file kt dan xml untuk project bernama App3 di android studio unt
 8. Buka lagi App > manifests > AndroidManifest.xml > tambahkan codingan berikut:
    
    `<activity`
-            `android:name=".landing"`
+`            android:name=".landing"`
             `android:exported="false" />`
         `<activity`
             `android:name=".register"`

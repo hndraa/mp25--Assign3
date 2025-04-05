@@ -13,7 +13,8 @@ File ini adalah file kt dan xml untuk project bernama App3 di android studio unt
    ![image](https://github.com/user-attachments/assets/cebc8db2-a8ce-4254-9b0b-50f489fc0d54)
 
 8. Buka lagi App > manifests > AndroidManifest.xml > tambahkan codingan berikut:
-   '<activity
+   
+   `<activity
             android:name=".landing"
             android:exported="false" />
         <activity
@@ -26,11 +27,11 @@ File ini adalah file kt dan xml untuk project bernama App3 di android studio unt
                 <action android:name="android.intent.action.MAIN" />
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
-        </activity>'
+        </activity>`
 
    ![image](https://github.com/user-attachments/assets/9f4b4947-31b1-4389-a37a-dd16d5cae82a)
 
-10. selanjutnya di Gradle Script > pilih dan buka build.gradle.kts (Modul : app) dan tambahkan kodingan [ id("kotlin-parcelize") ]
+10. selanjutnya di Gradle Script > pilih dan buka build.gradle.kts (Modul : app) dan tambahkan kodingan [ `id("kotlin-parcelize")` ]
    ![image](https://github.com/user-attachments/assets/854a8a47-6875-471d-879a-1bdf5b4bf1e1)
 ![image](https://github.com/user-attachments/assets/4ba0f4e4-e8d0-44d3-883c-fc5f09d37f0a)
 

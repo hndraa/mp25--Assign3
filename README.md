@@ -50,24 +50,25 @@ File ini adalah file kt dan xml untuk project bernama App3 di android studio unt
 ![image](https://github.com/user-attachments/assets/5cf402f8-643c-4a8b-80ee-3dfe8fa01379)
 
 ## Tampilan halaman login jik pw dan email kosong
-
+![image](https://github.com/user-attachments/assets/f6740b58-3009-4a71-be30-178bc6ca4f57)
 
 ## Tampilan halaman login jika email tidak valid
+![image](https://github.com/user-attachments/assets/d24820d1-a911-4c08-a631-7e950679078a)
 
 ## Tampilan halaman login jika belum registrasi
-
+![image](https://github.com/user-attachments/assets/167af7c1-7272-429d-9bb9-f287fc80abb5)
 
 ## Tampilan halaman Registrasi dan jika kosong
-
+![image](https://github.com/user-attachments/assets/979cbf71-02fd-46cf-8d7f-583e17cabce1)
 
 ## Tampilan halaman registrasi jika format email salah
-
+![image](https://github.com/user-attachments/assets/1bc1f6b2-8c32-416f-acc6-f93c51648ef2)
 
 ## Tampilan halaman registrasi jika panjang password < 8 karakter
-
+![image](https://github.com/user-attachments/assets/4381e014-0bd3-429d-9ad3-b1969f440b12)
 
 ## Tampilan Halaman Login setelah register, Jika panjang password < 8 Karakter
-
+![image](https://github.com/user-attachments/assets/d9553be7-64c5-4404-9eb9-4538b4d34cf0)
 
 ## Tampilan Halamann Landingjika berhasil Login
-
+![image](https://github.com/user-attachments/assets/416671f5-3e95-4add-a022-0c0175ed8a84)

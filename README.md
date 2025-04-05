@@ -3,6 +3,7 @@
 File ini adalah file kt dan xml untuk project bernama App3 di android studio untuk menjalankan code ini:
 1. Buka android studio pilih _new project_ lalu pilih _new activity_ beri nama app3 dan next.
 2. Ubah tampilan dari PROJECT ke  ANDROID
+   
    ![image](https://github.com/user-attachments/assets/59d65576-2f1a-415c-9032-1f9fd5884e0e)
 
 4. lalu di bagian App > kotlin+java > com.example.app3 , masukan file "User.kt", "login.kt", "register.kt", "landing.kt".

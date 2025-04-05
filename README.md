@@ -7,27 +7,31 @@ File ini adalah file kt dan xml untuk project bernama App3 di android studio unt
    ![image](https://github.com/user-attachments/assets/59d65576-2f1a-415c-9032-1f9fd5884e0e)
 
 4. lalu di bagian App > kotlin+java > com.example.app3 , masukan file "User.kt", "login.kt", "register.kt", "landing.kt".
+   
    ![image](https://github.com/user-attachments/assets/9eb8c1f8-b54c-4abb-a327-ca6d0aeab0e2)
 
 6. selanjutnya bagian App > res > Layout, masukan file "activity_login.xml", "activity_register.xml", "activity_landing.xml".
+
    ![image](https://github.com/user-attachments/assets/cebc8db2-a8ce-4254-9b0b-50f489fc0d54)
 
 8. Buka lagi App > manifests > AndroidManifest.xml > tambahkan codingan berikut:
-   
+      
+    ```  kotlin
    <activity
-            android:name=".landing"
-            android:exported="false" />
-        <activity
-            android:name=".register"
-            android:exported="false" />
-        <activity
-            android:name=".login"
-            android:exported="true"> <!-- Set TRUE & tambahkan intent-filter -->
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
-        </activity>
+               android:name=".landing"
+               android:exported="false" />
+           <activity
+               android:name=".register"
+               android:exported="false" />
+           <activity
+               android:name=".login"
+               android:exported="true"> <!-- Set TRUE & tambahkan intent-filter -->
+               <intent-filter>
+                   <action android:name="android.intent.action.MAIN" />
+                   <category android:name="android.intent.category.LAUNCHER" />
+               </intent-filter>
+           </activity>
+
 
    ![image](https://github.com/user-attachments/assets/9f4b4947-31b1-4389-a37a-dd16d5cae82a)
 
